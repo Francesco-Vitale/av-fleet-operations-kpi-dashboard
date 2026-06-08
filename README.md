@@ -74,17 +74,9 @@ The app opens at `http://localhost:8501`.
 
 ```
 .
-├── app.py          # Complete Streamlit dashboard (single file, no external data)
-└── README.md       # This file
+├── app.py            # Complete Streamlit dashboard (single file, no external data)
+└── README.md         # This file
+└── requirements.txt  # List of external libraries
 ```
-
----
-
-## Screenshot description
-
-**View 1 — Market Overview:** Two dark-themed scorecards side by side. Hamburg shows a maturity score of ~78/100 with most KPIs in green. Oslo shows ~58/100 with several amber/red KPIs, reflecting a newer deployment.
-
-**View 2 — KPI Trends:** Dual-line time-series chart for On-Time Rate. Hamburg (blue) holds steady with a dip around day 14–16. Oslo (red) shows a clear upward trend with a red anomaly circle on day 7 (weather event).
-
 **View 3 — Shock Simulator:** Sliders set to 40% weather and 20% fleet reduction. Delta badges show On-Time Rate down 3.2% (red) and Disruption Rate up 2.0% (red) for both markets.
 
