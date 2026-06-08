@@ -2,9 +2,7 @@
 
 A portfolio project demonstrating cross-market operational benchmarking for an autonomous vehicle ridepooling deployment — including anomaly detection and a disruption shock simulator.
 
-> Built as part of a job application to explore what KPI-driven operator enablement might look like for a turnkey AV platform across multiple city deployments.
-
-**Live demo:** *(deploy to Streamlit Community Cloud and paste URL here)*
+**Live demo:** *https://av-fleet-operations-kpi-dashboard-ua2o4xvpkmygypfyhtphg4.streamlit.app/*
 
 ---
 
