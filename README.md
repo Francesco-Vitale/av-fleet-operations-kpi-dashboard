@@ -88,8 +88,3 @@ The app opens at `http://localhost:8501`.
 
 **View 3 — Shock Simulator:** Sliders set to 40% weather and 20% fleet reduction. Delta badges show On-Time Rate down 3.2% (red) and Disruption Rate up 2.0% (red) for both markets.
 
----
-
-## CV one-liner
-
-> Computes 7 operational KPIs across two simulated AV ridepooling markets with anomaly detection, color-coded maturity scoring, and a disruption shock simulator — built to explore cross-market operator benchmarking for autonomous mobility deployments.
